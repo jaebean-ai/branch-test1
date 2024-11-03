@@ -3,3 +3,5 @@ second commit
 third commit
 issue resolved
 Hotfix team's solution
+New function added
+team upgraded
